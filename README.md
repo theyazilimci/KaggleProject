@@ -20,3 +20,9 @@ Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking 
 People with cardiovascular disease or who are at high cardiovascular risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidaemia or already established disease) need early detection and management wherein a machine learning model can be of great help.
 The dataset can be found here: https://www.kaggle.com/fedesoriano/heart-failure-prediction <br>
 User profile: https://www.kaggle.com/fedesoriano
+<br> <br> 
+Project 3: <h3> Insurance Charges Prediction With Neural Network Dataset Overview </h3> <br>
+Context
+Machine Learning with R by Brett Lantz is a book that provides an introduction to machine learning using R. As far as I can tell, Packt Publishing does not make its datasets available online unless you buy the book and create a user account which can be a problem if you are checking the book out from the library or borrowing the book from a friend. All of these datasets are in the public domain but simply needed some cleaning up and recoding to match the format in the book.
+The dataset can be found here: https://www.kaggle.com/mirichoi0218/insurance <br>
+User profile: https://www.kaggle.com/mirichoi0218
