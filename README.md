@@ -38,8 +38,8 @@ This Data contains around 25k images of size 150x150 distributed under 6 categor
 'mountain' -> 3, <br>
 'sea' -> 4, <br>
 'street' -> 5  <br>
-The dataset can be found here: https://www.kaggle.com/fedesoriano/heart-failure-prediction <br>
-User profile: https://www.kaggle.com/fedesoriano
+The dataset can be found here: https://www.kaggle.com/puneet6060/intel-image-classification <br>
+User profile: https://www.kaggle.com/puneet6060
 <br> <br> 
 
 
