@@ -52,7 +52,7 @@ User profile: https://www.kaggle.com/puneet6060
 
 <br> <br> 
 Project 5: <h3>Hollywood Market</h3> <br>
-![image](https://gisgeography.com/wp-content/uploads/2014/07/image-classification-techniques-remote-sensing.jpg) <br>
+![image](https://image.shutterstock.com/image-vector/online-cinema-art-movie-watching-260nw-586719869.jpg) <br>
 
 Context
 This Dataset contains the data of market analysis built on The Numbers unique categorization system, which uses 6 different criteria to identify a movie. All movies released since 1995 are categorized according to the following attributes: Creative type (factual, contemporary fiction, fantasy etc.), Source (book, play, original screenplay etc.), Genre (drama, horror, documentary etc.), MPAA rating, Production method (live action, digital animation etc.) and Distributor. In order to provide a fair comparison between movies released in different years, all rankings are based on ticket sales, which are calculated using average ticket prices announced by the MPAA in their annual state of the industry report.
