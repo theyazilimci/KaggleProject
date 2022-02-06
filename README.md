@@ -66,10 +66,21 @@ Project 6: <h3>Google Play Store Application Downloads </h3> <br>
 ![image](https://user-images.githubusercontent.com/91346020/152698367-b4cb0f10-a8d4-4860-9618-f165969c80e9.png) <br>
 
 Context
-TThe dataset contains the top 500 android apps available on the google play store for the following categories: All Categories, Art & Design, Auto & Vehicles, Beauty, Books & Reference, Business, Comics, Communication, Education, Entertainment, Events, Finance, Food & Drink, Health & Fitness, House & Home, Libraries & Demo, Lifestyle, Maps & Navigation, Medical, Music & Audio, News & Magazines, Parenting, Personalization, Photography, Productivity, Shopping, Social, Sports, Tools, Travel & Local, and Video Players & Editors.
+The dataset contains the top 500 android apps available on the google play store for the following categories: All Categories, Art & Design, Auto & Vehicles, Beauty, Books & Reference, Business, Comics, Communication, Education, Entertainment, Events, Finance, Food & Drink, Health & Fitness, House & Home, Libraries & Demo, Lifestyle, Maps & Navigation, Medical, Music & Audio, News & Magazines, Parenting, Personalization, Photography, Productivity, Shopping, Social, Sports, Tools, Travel & Local, and Video Players & Editors.
 The app rankings are based on google play store app rankings for January 2022.
 The dataset can be found here: https://www.kaggle.com/shakthidhar/google-play-store-category-wise-top-500-apps <br>
 User profile: https://www.kaggle.com/shakthidhar
+<br> <br> 
+
+
+<br> <br> 
+Project 7: <h3>Covid Vaccination Dataset </h3> <br>
+![image](https://www.interpol.int/var/interpol/storage/images/7/1/4/0/230417-1-eng-GB/Cyber_preview.jpg) <br>
+
+Context
+Data is collected daily from Our World in Data GitHub repository for covid-19, merged and uploaded. Country level vaccination data is gathered and assembled in one single file. Then, this data file is merged with locations data file to include vaccination sources information. A second file, with manufacturers information, is included.
+The dataset can be found here: https://www.kaggle.com/gpreda/covid-world-vaccination-progress <br>
+User profile: https://www.kaggle.com/gpreda (Kaggle Grand Master)
 <br> <br> 
 
 
