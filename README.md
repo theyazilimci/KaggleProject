@@ -63,7 +63,7 @@ User profile: https://www.kaggle.com/johnharshith
 
 <br> <br> 
 Project 6: <h3>Google Play Store Application Downloads </h3> <br>
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.forbesindia.com%2Farticle%2Fspecial%2Fgoogles-play-policy-update-brings-indian-startups-face-to-face-with-big-techs-power%2F63167%2F1&psig=AOvVaw34fgneaVTAtWIpuRfNZlVH&ust=1644262723227000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjBkZ7q6_UCFQAAAAAdAAAAABAD![image](https://user-images.githubusercontent.com/91346020/152698367-b4cb0f10-a8d4-4860-9618-f165969c80e9.png)) <br>
+![image](https://user-images.githubusercontent.com/91346020/152698367-b4cb0f10-a8d4-4860-9618-f165969c80e9.png) <br>
 
 Context
 TThe dataset contains the top 500 android apps available on the google play store for the following categories: All Categories, Art & Design, Auto & Vehicles, Beauty, Books & Reference, Business, Comics, Communication, Education, Entertainment, Events, Finance, Food & Drink, Health & Fitness, House & Home, Libraries & Demo, Lifestyle, Maps & Navigation, Medical, Music & Audio, News & Magazines, Parenting, Personalization, Photography, Productivity, Shopping, Social, Sports, Tools, Travel & Local, and Video Players & Editors.
