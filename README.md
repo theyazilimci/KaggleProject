@@ -72,8 +72,6 @@ The dataset can be found here: https://www.kaggle.com/shakthidhar/google-play-st
 User profile: https://www.kaggle.com/shakthidhar
 <br> <br> 
 
-
-<br> <br> 
 Project 7: <h3>Covid Vaccination Dataset </h3> <br>
 ![image](https://www.interpol.int/var/interpol/storage/images/7/1/4/0/230417-1-eng-GB/Cyber_preview.jpg) <br>
 
@@ -82,6 +80,18 @@ Data is collected daily from Our World in Data GitHub repository for covid-19, m
 The dataset can be found here: https://www.kaggle.com/gpreda/covid-world-vaccination-progress <br>
 User profile: https://www.kaggle.com/gpreda (Kaggle Grand Master)
 <br> <br> 
+
+
+Project 8: <h3>Satellite Classification using CNN  </h3> <br>
+![image](https://cap.img.pmdstatic.net/fit/https.3A.2F.2Fi.2Epmdstatic.2Enet.2Fcap.2F2021.2F07.2F31.2Ff962df85-bb35-4003-927f-8d590ff7d320.2Ejpeg/1200x630/background-color/ffffff/focus-point/93%2C552/quality/70/cr/wqkgUGl4YWJheSAvIENBUElUQUw%3D/lancement-reussi-pour-le-premier-satellite-flexible-europeen-1411002.jpg) <br>
+
+Context
+The past years have witnessed great progress on remote sensing (RS) image interpretation and its wide applications. With RS images becoming more accessible than ever before, there is an increasing demand for the automatic interpretation of these images. In this context, the benchmark datasets serve as essential prerequisites for developing and testing intelligent interpretation algorithms. After reviewing existing benchmark datasets in the research community of RS image interpretation, this article discusses the problem of how to efficiently prepare a suitable benchmark dataset for RS image interpretation. Specifically, we first analyze the current challenges of developing intelligent algorithms for RS image interpretation with bibliometric investigations. We then present the general guidance on creating benchmark datasets in efficient manners. Following the presented guidance, we also provide an example on building RS image dataset, i.e., Million-AID, a new large-scale benchmark dataset containing a million instances for RS image scene classification. Several challenges and perspectives in RS image annotation are finally discussed to facilitate the research in benchmark dataset construction. We do hope this paper will provide the RS community an overall perspective on constructing large-scale and practical image datasets for further research, especially data-driven ones.
+The dataset can be found here: https://www.kaggle.com/datasets/mahmoudreda55/satellite-image-classification <br>
+User profile: https://www.kaggle.com/mahmoudreda55 
+<br> <br> 
+
+
 
 
 
