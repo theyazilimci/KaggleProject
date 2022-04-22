@@ -94,4 +94,31 @@ User profile: https://www.kaggle.com/mahmoudreda55
 
 
 
+Project 8: <h3>Alzheimer Prediction using CNN  </h3> <br>
+![image](https://c4.wallpaperflare.com/wallpaper/353/981/279/brain-splitting-selective-coloring-musical-notes-wallpaper-preview.jpg) <br>
+Alzheimer MRI Preprocessed Dataset (128 x 128)
 
+The Data is collected from several websites/hospitals/public repositories.
+The Dataset is consists of Preprocessed MRI (Magnetic Resonance Imaging) Images.
+All the images are resized into 128 x 128 pixels.
+The Dataset has four classes of images.
+The Dataset is consists of total 6400 MRI images.
+Class - 1: Mild Demented (896 images)
+Class - 2: Moderate Demented (64 images)
+Class - 3: Non Demented (3200 images)
+Class - 4: Very Mild Demented (2240 images)
+Motive
+The main motive behind sharing this dataset is to design/develop an accurate framework or architecture for the classification of Alzheimers Disease.
+
+References
+
+https://adni.loni.usc.edu/
+https://www.alzheimers.net/
+https://www.kaggle.com/datasets/jboysen/mri-and-alzheimers
+https://ieeexplore.ieee.org/document/9521165
+https://catalog.data.gov/dataset/alzheimers-disease-and-healthy-aging-data
+https://www.nature.com/articles/s41598-020-79243-9
+https://cordis.europa.eu/article/id/429468-the-final-epad-dataset-is-now-available-on-the-alzheimer-s-disease-workbench
+The dataset can be found here:https://www.kaggle.com/datasets/sachinkumar413/alzheimer-mri-dataset <br>
+User profile:https://www.kaggle.com/sachinkumar413
+<br> <br> 
