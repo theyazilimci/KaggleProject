@@ -122,3 +122,23 @@ https://cordis.europa.eu/article/id/429468-the-final-epad-dataset-is-now-availab
 The dataset can be found here:https://www.kaggle.com/datasets/sachinkumar413/alzheimer-mri-dataset <br>
 User profile:https://www.kaggle.com/sachinkumar413
 <br> <br> 
+
+
+
+
+
+Project 9: <h3>Superstore Dataset analysis</h3> <br>
+![image](https://media-exp1.licdn.com/dms/image/C4E12AQHG1RNjrpiZ-w/article-inline_image-shrink_1500_2232/0/1561471706289?e=2147483647&v=beta&t=w0yQRQSY-ZmSI7KS3vR_nmUQaSbPcXJxWNMvUMHDFcg) <br>
+Context 
+
+With growing demands and cut-throat competitions in the market, a Superstore Giant is seeking your knowledge in understanding what works best for them. They would like to understand which products, regions, categories and customer segments they should target or avoid.
+
+The dataset can be found here:https://www.kaggle.com/datasets/vivek468/superstore-dataset-final <br>
+User profile: https://www.kaggle.com/vivek468
+<br> <br> 
+
+
+
+
+
+
